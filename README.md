@@ -1,6 +1,5 @@
 # shortestpath
-[![Maven Package](https://github.com/mjh316/shortestpath/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/mjh316/shortestpath/actions/workflows/maven-publish.yml)
-
+[![Maven Package](https://github.com/mjh316/shortestpath/actions/workflows/maven-publisha.yml/badge.svg)](https://github.com/mjh316/shortestpath/actions/workflows/maven-publisha.yml)
 Enter in a network of places and the distances between them, and your home. Without needing to define a direct distance between your home and every place, you can calculate the distance from the connections of the other places!   
 Example:  
 ```
